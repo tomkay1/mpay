@@ -64,19 +64,19 @@ Api地址：http(s)://你的服务器地址/addons/pay/
 
 ### 系统快照
 #### 一、使用前请详细阅读使用帮助的所有内容
-![使用帮助](https://github.com/zhupanlinch/pay/blob/master/%E4%BD%BF%E7%94%A8%E5%B8%AE%E5%8A%A9.p
+![使用帮助](https://github.com/tomkay1/mpay/blob/master/%E4%BD%BF%E7%94%A8%E5%B8%AE%E5%8A%A9.png
 
 #### 二、支付体验
-![支付体验](https://github.com/zhupanlinch/pay/blob/master/%E6%94%AF%E4%BB%98%E4%BD%93%E9%AA%8C.png)
+![支付体验](https://github.com/tomkay1/mpay/blob/master/%E6%94%AF%E4%BB%98%E4%BD%93%E9%AA%8C.png)
 
 #### 三、收款账号管理
-![收款账号管理](https://github.com/zhupanlinch/pay/blob/master/%E6%94%B6%E6%AC%BE%E8%B4%A6%E5%8F%B7%E7%AE%A1%E7%90%86.png)
+![收款账号管理](https://github.com/tomkay1/mpay/blob/master/%E6%94%B6%E6%AC%BE%E8%B4%A6%E5%8F%B7%E7%AE%A1%E7%90%86.png)
 
 #### 四、订单管理
-![订单管理](https://github.com/zhupanlinch/pay/blob/master/%E8%AE%A2%E5%8D%95%E7%AE%A1%E7%90%86.png)
+![订单管理](https://github.com/tomkay1/mpay/blob/master/%E8%AE%A2%E5%8D%95%E7%AE%A1%E7%90%86.png)
 
 #### 五、商户对接
-![商户对接](https://github.com/zhupanlinch/pay/blob/master/%E5%95%86%E6%88%B7%E5%AF%B9%E6%8E%A5.png)
+![商户对接](https://github.com/tomkay1/mpay/blob/master/%E5%95%86%E6%88%B7%E5%AF%B9%E6%8E%A5.png)
 
 #### 二、更多功能等待您的探索
 
