@@ -1,4 +1,4 @@
-`求一Java团队收留 ` 联络邮箱：`jupanshuai@qq.com`
+
 **最新版本已增加风控指数指标，若有需要请联络**
 # mpay
 ### 支付宝个人免签支付项目介绍
@@ -64,7 +64,7 @@ Api地址：http(s)://你的服务器地址/addons/pay/
 
 ### 系统快照
 #### 一、使用前请详细阅读使用帮助的所有内容
-![使用帮助](https://github.com/zhupanlinch/pay/blob/master/%E4%BD%BF%E7%94%A8%E5%B8%AE%E5%8A%A9.png)
+![使用帮助](https://github.com/zhupanlinch/pay/blob/master/%E4%BD%BF%E7%94%A8%E5%B8%AE%E5%8A%A9.p
 
 #### 二、支付体验
 ![支付体验](https://github.com/zhupanlinch/pay/blob/master/%E6%94%AF%E4%BB%98%E4%BD%93%E9%AA%8C.png)
@@ -146,4 +146,3 @@ Redis
 mysql
 
 ### 欢迎赞赏
-![赞赏](https://github.com/zhupanlinch/pay/blob/master/src/main/resources/static/common/%E8%B5%9E%E8%B5%8F%E7%A0%81.png)
